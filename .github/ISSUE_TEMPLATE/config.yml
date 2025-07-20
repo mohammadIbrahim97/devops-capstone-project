@@ -4,7 +4,7 @@ contact_links: []
 issue_templates:
   - name: User Story
     description: Vorlage für eine User Story mit Gherkin-Kriterien
-    title: "[Story] "
+    title: "[User Story] "
     labels: ["user story"]
     assignees: []
     body:
